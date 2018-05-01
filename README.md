@@ -14,9 +14,10 @@ Item has 8192 chars.
 
 
 # Result
+
 ## iPhone 8
 
-| itemnum    | array createtime(s) | array copy time(s) | 
+| itemnum    | array create time(s) | array copy time(s) | 
 |------------|---------------------|--------------------| 
 |        100 | 0.000938            | 0.000009           | 
 |       1000 | 0.000128            | 0.000062           | 
