@@ -37,6 +37,9 @@ for _ in 0..<elementnum {
 - IPhone 4S and iPad 2 crashed at 10,000,000 elements.
 
 
+
+![iOS Array element append time](https://cdn-images-1.medium.com/max/800/1*ZbeuKGkZBPpRrOMCAkt6mg.png "iOS Array element append time")
+
 ## Array copy time
 
 ```
@@ -55,3 +58,5 @@ var newarray = orginalarray
 
 - The unit is seconds.
 - IPhone 4S and iPad 2 crashed at 10,000,000 elements.
+
+![iOS Array copy time](https://cdn-images-1.medium.com/max/800/1*TfsOMTcm4ftLBMaE4RLvxg.png "iOS Array copy time")
